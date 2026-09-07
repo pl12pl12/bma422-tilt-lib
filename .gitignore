@@ -1,0 +1,22 @@
+# 编译产物
+*.o
+*.obj
+*.a
+*.lib
+*.elf
+*.hex
+*.bin
+*.map
+
+# 主机验证 / 调试临时文件
+*.exe
+_*
+*.out
+*.txt
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
